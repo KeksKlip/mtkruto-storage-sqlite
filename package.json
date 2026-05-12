@@ -1,0 +1,19 @@
+{
+  "name": "mtkruto-storage-sqlite",
+  "version": "0.0.1",
+  "description": "SQLite storage adapter for MTKruto",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "prepare": "tsc",
+    "build": "tsc",
+    "test": "bun test"
+  },
+  "dependencies": {   
+    "typescript": "^6.0.3"
+  },
+  "devDependencies": {
+    "@mtkruto/node": "^0.141.0",
+    "@types/bun": "^1.3.13"
+  }
+}
