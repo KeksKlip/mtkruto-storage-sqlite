@@ -1,6 +1,6 @@
 {
   "name": "mtkruto-storage-sqlite",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SQLite storage adapter for MTKruto",
   "license": "LGPL-3.0-or-later",
   "author": "https://github.com/KeksKlip",
